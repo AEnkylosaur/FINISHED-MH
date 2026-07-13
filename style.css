@@ -1505,3 +1505,31 @@ footer a:hover{
     background:#16a34a !important;
 
 }
+
+#themeToggle{
+    padding:8px 15px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    background:#2563eb;
+    color:white;
+}
+
+.dark-mode{
+    background:#111827;
+    color:white;
+}
+
+.dark-mode header{
+    background:#1f2937;
+}
+
+.dark-mode .card,
+.dark-mode .calc-card{
+    background:#374151;
+    color:white;
+}
+
+.dark-mode footer{
+    background:#000;
+}
